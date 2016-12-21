@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Amanleen Puri
 
 You can use the [editor on GitHub](https://github.com/Amanleen/MyProfile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
